@@ -1,0 +1,73 @@
+Описание уровней
+0-1 Написал Hello, world на этом языке или читал чужие программы на этом языке и переписывал на другой
+1-2 Вносил правки в чужой код, написанный на этом языке
+2-3 Создал более 1 программы/скрипта на этом языке
+3-4 Создал более 1 программы на этом языке (команда>3ч, в проде>2 лет, моего кода<50%, >100 изменений)
+4-5 Приходилось решать проблемы, специфичные для языка, оптимизировать работу с памятью, сетью
+
+0-1 (beginner)
+https://www.python.org/ официальный сайт языка
+
+https://byteofpython.gitbooks.io/-/content/ - Книга “A Byte of Python”
+
+https://www.youtube.com/playlist?list=PL0lO_mIqDDFXgfuxOEDTCwsWmKezOaDTu Python для начинающих
+
+Словари https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html
+
+Списки https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html
+
+Работа с файлами https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html
+
+https://www.youtube.com/playlist?list=PL6tu16kXT9PqeBsa05mZoIWJLlYmkdQR2 Python for automation testing 1 час
+
+https://ru.hexlet.io/courses/python_101 Введение в Python, 5 часов
+
+https://stepik.org/course/58852 "Поколение Python": курс для начинающих, 61 урок, 214 тестов, 294 интерактивные задачи
+
+https://skillfactory.ru/micro_python Python для начинающих, онлайн-тренажер
+
+Приложение SoloLearn (Apple, Android) - Курс по Python, 2-3 дня по 3 часа в день
+
+https://proglib.io/p/dorozhnaya-karta-python-razrabotchika-2021-10-09 Дорожная карта Python-разработчика
+
+1-2 (junior)
+
+https://pythonworld.ru/uploads/mementopython3-russian.pdf  Шпаргалка по Python3 (раздел Полезные материалы)
+
+https://pythonworld.ru/samouchitel-python Самоучитель по языку
+
+http://pythontutor.ru/ Интерактивное обучение по Python с задачами
+
+https://www.intuit.ru/studies/courses/12179/1172/info - Введение в программирование на Python
+
+https://younglinux.info/python.php  Python. Введение в программирование, 8 часов
+
+\\megafon.ru\FS\GF\Книги\Языки программирования\Python Начинаем программировать на Python, Гэддис Тони https://www.youtube.com/watch?v=8NGaXqqLSeM видео обзор
+
+https://stepik.org/course/67/promo Программирование на Python, 28 уроков, 4 часа видео, 27 тестов, 44 интерактивные задачи
+
+https://stepik.org/course/431/promo Адаптивный тренажер Python, 53 урока, 11 тестов, 41 интерактивная задача
+
+https://www.youtube.com/watch?v=irf2ekfkK0Q&list=PLvItDmb0sZw_MVK2txwtBSHAzaYRrOdiJ Python Essential 6ч
+
+https://stepik.org/course/56391 Введение в Python. Практикум, 15 уроков, 146 интерактивных задач
+
+https://stepik.org/course/58638 Основы программирования на языке Python в примерах и задачах, 13 уроков, 1 час видео, 26 тестов, 35 интерактивных задач
+
+https://stepik.org/course/83990 Обработка данных в Python Pandas, 14 уроков, 27 тестов
+
+https://www.coursera.org/learn/diving-in-python Погружение в Python, 44 часа
+
+
+	
+2-3 (middle)
+
+https://www.djangoproject.com/ Django
+
+https://flask.palletsprojects.com/en/1.1.x/ Flask (микрофреймворк. Полезен для создания простых прототипов веб-приложений)https://docs.python.org/3/library/re.html?highlight=re#module-re Регулярные выражения.  https://docs.python.org/3/howto/logging.html Модуль re. Logging HOWTO.
+https://docs.python.org/3/library/unittest.html Модуль unittest.
+https://docs.python.org/3/library/collections.html Модуль collections
+
+https://stepik.org/course/512/promo Python: основы и применение, 20 часов
+
+https://www.coursera.org/learn/python-osnovy-programmirovaniya?ranMID=40328&ranEAID=ve4RjaCbdEQ&ranSiteID=ve4RjaCbdEQ-jehlahEVqVfDyONsJwmMJg&siteID=ve4RjaCbdEQ-jehlahEVqVfDyONsJwmMJg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ve4RjaCbdEQ  Основы программирования на Python, 87 ч
