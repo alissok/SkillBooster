@@ -1,0 +1,73 @@
+0-1 Умею пройти тест, написанный другим человеком
+
+1-2 Могу проанализировать результаты тестов и завести баги
+
+2-3 Могу написать функциональный тест на свойпродукт, согласовать чужой тест
+
+3-4 Могу написать системный тест (end-to-end). Умею писать как позитивные, так и негативные тесты
+
+4-5 Могу полностью покрыть тестами и протестировать новый компонент/бизнес-процесс с нуля
+
+0-1 (beginner)
+http://www.protesting.ru/testing/ - 4 часа на прочтение раздела со всеми дочерними страницами
+
+https://www.youtube.com/watch?v=7EyX8n2Mb1A&list=PLvItDmb0sZw8npbYThWpZs5_cZU9ycos4 QA Start 3ч
+
+1-2 (junior)
+
+https://software-testing.ru/library/testing/testing-for-beginners?layout=default - статьи для начинающих тестировщиков 15-20 минут раз в неделю
+
+https://software-testing.ru/library/testing/bug-tracking?layout=default Статьи по работе с дефектами 15-20 минут в неделю
+
+https://www.youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo Тестирование ПО. Профессиональный курс подготовки QA 6-7 ч
+
+2-3 (middle - intermediate)
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet Синтаксис для описания тестов 1 час
+
+https://www.youtube.com/watch?v=Xx1lRYj_NsY&list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB Курс тестирование ПО 3ч
+
+https://stepik.org/course/16478 - Тестирование ПО: подготовка к сертификации ISTQB Foundation, 32 урока, 111 тестов
+
+3-4 (senior - advanced)
+
+https://www.youtube.com/watch?v=8H9HgjrwQHA&list=PLA5BEBC63E3F550B2&index=9 Тест-анализ на основе состояний и переходов 40 минут
+
+4-5 (tech lead)
+
+https://istqb-training.ru/ тренажер вопросов к ISTQB
+
+https://www.istqb.org/downloads.html материалы к ISTQB (англ)
+
+https://www.rstqb.org/ru/istqb-downloads.html материалы к ISTQB (рус)
+
+https://habr.com/ru/company/simbirsoft/blog/443672/ Риски 1час
+
+https://www.software-testing.ru/library/testing/general-testing/335-risk-management-in-software-testing Риски 1 час
+
+https://habr.com/ru/hub/it_testing/ и https://habr.com/ru/hub/web_testing/ - хабы про IT-тестирование, 15-20 минут пару раз в неделю
+
+https://www.youtube.com/channel/UCVMFyEVvaBDQ3PrExtCH0uw Канал Алексея Баранцева, интересные видео про тестирование, 30 минут раз в неделю
+
+https://www.youtube.com/watch?v=YOgfozWtf2Y&list=PLA5BEBC63E3F550B2&index=30 Планирование тестирования 40 минут
+
+https://www.youtube.com/watch?v=rt_8MM15RZs&list=PLA5BEBC63E3F550B2&index=47 Приоритеты тестирования 30 минут
+
+https://www.youtube.com/watch?v=jtR8y5obkCM&list=PLA5BEBC63E3F550B2&index=53 Как посчитать время на тестирования 35 минут
+
+https://www.youtube.com/watch?v=LAuWf5pMVDk&list=PLA5BEBC63E3F550B2&index=73 Оценка эффективности тестирования 30 минут
+
+https://github.com/sindresorhus/awesome#testing полезное про инструменты тестировщика
+
+Внешнее обучение:
+
+https://www.luxoft-training.ru/kurs/praktikum_po_riskam_testirovaniya.html Практикум по рискам тестирования 8 часов
+
+https://www.luxoft-training.ru/kurs/metriki_dlya_otsenki_kachestva_produkta_i_protsessa.html - Метрики для оценки качества продукта и процесса 8 часов
+
+https://www.luxoft-training.ru/kurs/vvedenie_v_test-menedgment.html Введение в тест-менеджмент 10 ч
+
+https://software-testing.ru/edu/3-online/316-audit Аудит и оптимизация QA-процессов 6 недель
+
+https://otus.ru/lessons/qa-lead/ - QA Lead
+Best Practice по Soft и Hard Skills для эффективного управления командами тестирования, 6 месяцев, 4 ак. часа в нед.
