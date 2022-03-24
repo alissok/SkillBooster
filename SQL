@@ -1,0 +1,78 @@
+Описание уровней
+0-1 Написал Hello, world на этом языке или читал чужие программы на этом языке и переписывал на другой
+
+1-2 Вносил правки в чужой код, написанный на этом языке
+
+2-3 Создал более 1 программы/скрипта на этом языке
+
+3-4 Создал более 1 программы на этом языке (команда>3ч, в проде>2 лет, моего кода<50%, >100 изменений)
+
+4-5 Приходилось решать проблемы, специфичные для языка, оптимизировать работу с памятью, сетью
+
+
+0-1 (beginner)
+
+Приложение SoloLearn (Apple, Android) - Курс по SQL- 2 дня по 2 часа в день
+
+https://qna.habr.com/q/19254 
+
+http://datamonkey.pro/guess_sql/lessons/ интерактивный курс на английском - 4 часа
+
+https://academiait.ru/course/sql-dlya-nachinayushhih/ - SQL Для Начинающих (MySQL, требуется регистрация) 4 часа
+
+https://webshake.ru/php-i-mysql-s-nulya Курс MySQL c нуля (MySQL) 4 часа
+
+https://sql-academy.org/ru/guide - интерактивный гайд по SQL 3 часа
+
+https://www.youtube.com/watch?v=P2Eaf9M4gOU Введение в SQL 2 часа на серию из 5 уроков
+
+https://www.youtube.com/playlist?list=PL0lO_mIqDDFVnLvR39VpEtphQ8bPJ-xR9 SQL для начинающих 2 часа на серию из 8 уроков
+
+https://it-black.ru/samouchitel-po-sql/ Интерактивный самоучитель по SQL, 3 часа
+
+https://www.coursera.org/learn/intro-sql?action=enroll Introduction to Structured Query Language (SQL) Бесплатный, на английском, требует регистрации, 16 часов
+
+https://stepik.org/course/63054/ Интерактивный тренажер по SQL, 23 урока и 173 задача
+
+	
+1-2 (junior)
+
+
+http://www.sql-tutorial.ru/ интерактивный учебник по SQL (Microsoft SQL Server, PostgreSQL, MySQL), требуется регистрация 5 часов
+
+https://beesql.blogspot.com/ - практические примеры по SQL (Oracle) 1 час на разбор примера
+
+https://docs.oracle.com/database/121/SQLRF/toc.htm SQL Language Reference (на английском) 5-6 часов
+
+https://docs.oracle.com/database/121/LNPLS/toc.htm 
+PL/SQL Language Reference (на английском) 5-6 часов
+
+https://sql-ex.ru/ упражнения по SQL (MariaDB, PostgreSQL, Oracle, требуется регистрация) 150+ примеров от пары минут до часа на решение
+
+https://shultais.education/courses/sql - 7 уроков и 26 заданий бесплатно 2 часа
+
+https://www.youtube.com/playlist?list=PLv8UEsK35VB8ju8Vr9WeO71F7SCRofJis курс SQL (Oracle) 3 часа
+
+https://sqlbolt.com/ - интерактивный учебник с практикой (на английском) 4 часа
+
+https://sqlzoo.net/ практика в написании запросов с небольшими вводными (на английском) 30 мин - 2 часа на изучение одного раздела
+
+
+2-3 (middle - intermediate)
+
+https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf курс SQL (MySQL) 6 часов
+
+https://docs.oracle.com/database/121/TGSQL/toc.htm SQL Tuning Guide (на английском) 7 часов
+
+https://www.youtube.com/watch?v=yOkj-PbCPQ8&list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf 18 уроков по SQL (MySQL) 8 часов
+
+
+3-4 (senior - advanced)
+
+https://www.sql.ru/ - 30 найти и прочитать по своему вопросу
+
+SQL for Data Science на Coursera https://www.coursera.org/learn/sql-for-data-science?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-UsmgPnwlkx3QJwxuum8YrA&siteID=vedj0cWlu2Y-UsmgPnwlkx3QJwxuum8YrA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y. Бесплатный, на английском, требует регистрации, 14 часов
+
+4-5 (tech lead)
+
+https://www.sql.ru/ - 30 найти и прочитать по своему вопросу
