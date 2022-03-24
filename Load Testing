@@ -1,0 +1,102 @@
+Описание уровней
+0-1 Умею запускать нагрузочные тесты
+
+1-2 Умею анализировать результаты нагрузочных тестов, заводить баги
+
+2-3 Могу написать нагрузочный тест из 1-3 шагов
+
+3-4 Могу написать сложный интеграционный нагрузочный тест
+
+4-5 Умею оптимизировать нагрузочные тесты
+
+0-1 (beginner)
+https://software-testing.ru/library/testing/performance-testing/2817-performance-testing-tutorial Руководство по тестированию производительности – с чего начать 30мин
+
+https://software-testing.ru/library/testing/performance-testing/3112-introduction-to-performance-testing Введение в тестирование производительности 1ч
+
+https://www.youtube.com/watch?v=bDblNpOiwEo Нагрузочное тестирование. Коротко о главном 1,5ч
+
+https://www.youtube.com/watch?v=9DqXVKJTzVE&list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB&index=15 Курс тестирования ПО. Тестирование производительности 15мин
+
+https://www.youtube.com/watch?v=ozO4mU_-mGk Нагрузочное тестирование – Олесь Писаренко 1ч
+
+https://habr.com/ru/post/649295/ Сравнительный анализ инструментов нагрузочного тестирования 1ч
+
+1-2 (junior)
+
+https://www.youtube.com/watch?v=t4QRkIhkD-E - краткий экскурс в Jmeter 1ч
+
+https://www.youtube.com/watch?v=vxCZl27qPd8&list=PL55b2m_9SYspMgqtwdBcUR15wGb5Mq-Gy Мини-курс по JMeter, 2 ч
+
+https://www.youtube.com/watch?v=OAbyB3kDgXE Нагрузочное тестирование с Gatling с нуля 1ч
+
+https://habr.com/ru/company/tinkoff/blog/514314/ Анализ результатов нагрузочного тестирования (Gatling) 2ч
+
+https://jmeter.apache.org/usermanual/generating-dashboard.html Создание отчетов по запускам в Jmeter 2ч
+
+https://jmeter.apache.org/usermanual/realtime-results.html Проливка результатов тестов в InfluxDB 2ч
+
+https://jmeter.apache.org/usermanual/component_reference.html#listeners Листенеры в Jmeter 3ч
+
+https://habr.com/ru/company/tinkoff/blog/655341/ Введение в Gatling 1.5ч
+
+2-3 (middle - intermediate)
+
+https://www.performance-lab.ru/blog/luchshie-instrumenty-dlya-nagruzochnogo-testirovaniya Топ 10 инструментов для НТ 1ч
+
+https://www.youtube.com/watch?v=zSrTyK4XWQk&ab_channel=comaqa Процесс тестирования производительности на проекте "с нуля" 1ч
+
+https://software-testing.ru/library/testing/performance-testing/3128-how-to-design-load-test Как спроектировать нагрузочный тест 30мин
+
+https://software-testing.ru/library/testing/performance-testing/3117-1aqa 
+Руководство по тестированию производительности: с чего начать проверки и о чем нужно помнить 1ч
+
+https://www.a1qa.ru/blog/9-etapov-testirovaniya-proizvoditelnosti/ 9 этапов тестирования производительности 1.5ч
+
+https://jmeter.apache.org/usermanual/index.html - User's Manual по использованию Jmeter, 6ч
+
+https://jmeter.apache.org/usermanual/component_reference.html Компоненты Jmeter, 6ч на все, 20-30 мин найти и изучить нужный 
+
+https://jmeter.apache.org/usermanual/functions.html 4ч на все, 20мин найти и изучить нужную
+
+https://jmeter-plugins.org/wiki/ - вики по доп.плагинам Jmeter, 30 минут - изучить определенный
+
+https://jmeter.apache.org/usermanual/component_reference.html#listeners ищем View Results Tree - отладка тестов, 30мин
+
+https://software-testing.ru/library/testing/performance-testing/2998-locust
+
+https://software-testing.ru/library/testing/performance-testing/3009-locust2
+
+https://software-testing.ru/library/testing/performance-testing/3041-locust-3 Нагрузочное тестирование с locust. 3 части, 5ч
+
+https://www.youtube.com/watch?list=PLSjEh0z5QH9lKpMO4Nf3buFiP7tt0gTRN&v=61Kkgnx-zF8&ab_channel=comaqa Красивое тестирование производительности, настройка мониторинга 40мин
+
+3-4 (senior - advanced)
+
+https://jmeter.apache.org/usermanual/best-practices.html лучшие практики по  созданию тестов  2ч
+
+https://docs.locust.io/en/stable/quickstart.html Locust быстрый старт, 2ч
+
+https://gatling.io/docs/current/quickstart/ Gatling быстрый старт, 2ч
+
+https://www.youtube.com/watch?v=3PWBBc7rZxw Подводные камни в нагрузочном тестировании  1ч
+
+https://www.youtube.com/watch?v=gws7L3EaeC0&t=80s Учимся анализировать результаты нагрузочного тестирования 1ч
+
+https://www.youtube.com/watch?v=84R-iweuPBA&ab_channel=comaqa Инструменты нагрузочного тестирования в процессе разработки 40мин
+
+https://software-testing.ru/library/testing/performance-testing/3068-yamoney Почему нагружать прод — не страшно 1ч
+
+https://software-testing.ru/library/testing/performance-testing/2861-how-create-highly-effective-performance-tests 
+Как создать эффективные тесты производительности 30мин
+
+4-5 (tech lead)
+Внешние источники:
+
+https://www.youtube.com/watch?v=rQCspOA30Bc Ускоряем Apache JMeter 1ч
+
+https://www.youtube.com/watch?v=bq2R4QF1sdo 1ч
+
+https://www.youtube.com/watch?v=kYCED7w42Xc 1ч
+
+https://software-testing.ru/library/testing/performance-testing?layout=default - статьи про тестирование производительности 15-20 минут в неделю
