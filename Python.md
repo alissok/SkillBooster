@@ -9,6 +9,11 @@
 
 <table>
     <tr>
+        <td>Название</td>
+        <td>Продолжительность</td>
+        <td>Тип</td>
+    </tr>
+    <tr>
         <td colspan="3">0-1 (beginner)</td>
     </tr>
     <tr>
@@ -70,5 +75,111 @@
         <td><a href="https://proglib.io/p/dorozhnaya-karta-python-razrabotchika-2021-10-09">Дорожная карта Python-разработчика</a></td>
         <td>25 минут</td>
         <td>Текст</td>
+    </tr>
+    <tr>
+        <td colspan="3">1-2 (junior)</td>
+    </tr>
+    <tr>
+        <td><a href="https://pythonworld.ru/uploads/mementopython3-russian.pdf">Шпаргалка по Python3</a></td>
+        <td> - </td>
+        <td>Текст</td>
+    </tr>
+    <tr>
+        <td><a href="https://pythonworld.ru/samouchitel-python">Самоучитель по языку</a></td>
+        <td> - </td>
+        <td>Текст</td>
+    </tr>
+    <tr>
+        <td><a href="http://pythontutor.ru/">Интерактивное обучение по Python с задачами</a></td>
+        <td> 10 часов </td>
+        <td>Текст + задачи</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.intuit.ru/studies/courses/12179/1172/info">Введение в программирование на Python</a></td>
+        <td>14 часов</td>
+        <td>Видео</td>
+    </tr>
+    <tr>
+        <td><a href="https://younglinux.info/python.php">Введение в программирование</a></td>
+        <td>8 часов</td>
+        <td>Текст </td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/67/promo">Программирование на Python</a></td>
+        <td>9 часов</td>
+        <td>Видео + текст + задачи + тесты</td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/431/promo">Адаптивный тренажер Python</a></td>
+        <td>6 часов</td>
+        <td>Тест + задачи</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=irf2ekfkK0Q&list=PLvItDmb0sZw_MVK2txwtBSHAzaYRrOdiJ">Python essential</a></td>
+        <td>6 часов</td>
+        <td>Видео</td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/56391">Введение в Python</a></td>
+        <td>10 часов</td>
+        <td>Видео + задачи</td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/58638">Основы программирования на языке Python в примерах и задачах</a></td>
+        <td>5 часов</td>
+        <td>Видео + тесты + задачи</td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/83990">Обработка данных в Python. Библиотека Pandas.</a></td>
+        <td>6 часов</td>
+        <td>Видео + тесты</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.coursera.org/learn/diving-in-python">Погружение в Python</a></td>
+        <td>44 часа</td>
+        <td>Видео + тесты</td>
+    </tr>
+    <tr>
+        <td colspan="3">2-3 (middle)</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.djangoproject.com/">Фреймворк Django</a></td>
+        <td> - </td>
+        <td>Документация</td>
+    </tr>
+    <tr>
+        <td><a href="https://flask.palletsprojects.com/en/1.1.x/">Фреймворк Flask для создания простых web-приложений</a></td>
+        <td> - </td>
+        <td>Документация</td>
+    </tr>
+    <tr>
+        <td><a href="https://docs.python.org/3/library/re.html?highlight=re#module-re">Регулярные выражения</a></td>
+        <td> - </td>
+        <td>Документация</td>
+    </tr>
+    <tr>
+        <td><a href="https://docs.python.org/3/howto/logging.html">Logging HOWTO</a></td>
+        <td> - </td>
+        <td>Документация</td>
+    </tr>
+    <tr>
+        <td><a href="https://docs.python.org/3/library/unittest.html">Модуль unittest</a></td>
+        <td> - </td>
+        <td>Документация</td>
+    </tr>
+    <tr>
+        <td><a href="https://docs.python.org/3/library/collections.html">Модуль collections</a></td>
+        <td> - </td>
+        <td>Документация</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.coursera.org/learn/python-osnovy-programmirovaniya?ranMID=40328&ranEAID=ve4RjaCbdEQ&ranSiteID=ve4RjaCbdEQ-jehlahEVqVfDyONsJwmMJg&siteID=ve4RjaCbdEQ-jehlahEVqVfDyONsJwmMJg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=ve4RjaCbdEQ">Основы программирования на Python</a></td>
+        <td>87 часов</td>
+        <td>Видео + задачи</td>
+    </tr>
+    <tr>
+        <td> <a href="https://stepik.org/course/512/promo">Python - основы и применение</a></td>
+        <td>20 часов</td>
+        <td>Видео + тесты + задачи</td>
     </tr>
 </table>
