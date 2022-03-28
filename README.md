@@ -9,3 +9,5 @@
 4. Нагрузочное тестирование
 5. SQL
 6. Python
+7. Java
+8. Jenkins, Gitlab CI
