@@ -146,6 +146,3 @@
     <li><a href="https://software-testing.ru/edu/3-online/316-audit">Аудит и оптимизация QA-процессов</a></li>
     <li><a href="https://otus.ru/lessons/qa-lead/">QA Lead</a></li>
 </ul>
-
-
-
