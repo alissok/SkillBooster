@@ -27,7 +27,7 @@
         <td> Книга </td>
     </tr>
     <tr>
-        <td><a href="https://pythonworld.ru/samouchitel-python">Самоучитель по Python, внутри ищем интересующую тему</a></td>
+        <td><a href="https://pythonworld.ru/samouchitel-python">Самоучитель по Python</a></td>
         <td> - </td>
         <td>Текст</td>
     </tr>
@@ -41,10 +41,15 @@
         <td>5 часов</td>
         <td>Текст + тесты</td>
     </tr>
+        <tr>
+        <td><a href="https://ru.hexlet.io/courses/python-basics">Основы Python</a></td>
+        <td>20 часов</td>
+        <td>Текст + тесты</td>
+    </tr>
     <tr>
-        <td><a href="https://stepik.org/course/58852">Поколение Python: курс для начинающих</a></td>
+        <td><a href="https://stepik.org/course/431/promo">Адаптивный тренажер Python</a></td>
         <td>40 часов</td>
-        <td>Текст + видео + тесты + практические задачи</td>
+        <td>53 урока, 11 тестов, 41 интерактивная задача</td>
     </tr>
     <tr>
         <td><a href="https://skillfactory.ru/micro_python">Python для начинающих - онлайн тренажер</a></td>
@@ -57,9 +62,14 @@
         <td>Текст + интерактивные задачи</td>
     </tr>
     <tr>
-        <td><a href="https://proglib.io/p/dorozhnaya-karta-python-razrabotchika-2021-10-09">Дорожная карта Python-разработчика</a></td>
-        <td>25 минут</td>
+        <td><a href="https://proglib.io/?tags%5B%5D=da3eaa9f-1111-4e25-83dd-8780deff020b&page=1">Почитать по языку в библиотеке программиста</a></td>
+        <td> - </td>
         <td>Текст</td>
+    </tr>
+        <tr>
+        <td> <a href="https://code-basics.com/ru/languages/python">Бесплатный интерактивный курс по Python для начинающих</a></td>
+        <td>20 часов</td>
+        <td>Теория, Практика, ИИи</td>
     </tr>
     <tr>
         <td colspan="3">1-2 (junior)</td>
@@ -107,7 +117,7 @@
     <tr>
         <td><a href="https://stepik.org/course/56391">Введение в Python</a></td>
         <td>10 часов</td>
-        <td>Видео + задачи</td>
+        <td>Практикум, 15 уроков, 146 интерактивных задачи</td>
     </tr>
     <tr>
         <td><a href="https://stepik.org/course/58638">Основы программирования на языке Python в примерах и задачах</a></td>
@@ -167,4 +177,5 @@
         <td>20 часов</td>
         <td>Видео + тесты + задачи</td>
     </tr>
+        </tr>
 </table>
