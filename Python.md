@@ -27,23 +27,8 @@
         <td> Книга </td>
     </tr>
     <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PL0lO_mIqDDFXgfuxOEDTCwsWmKezOaDTu">Python для начинающих</a></td>
-        <td>4 часа</td>
-        <td>Видео</td>
-    </tr>
-    <tr>
-        <td><a href="https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html">Словари</a></td>
-        <td>1 час</td>
-        <td>Текст</td>
-    </tr>
-    <tr>
-        <td><a href="https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html">Списки</a> </td>
-        <td>40 минут</td>
-        <td>Текст</td>
-    </tr>
-    <tr>
-        <td><a href="https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html">Работа с файлами</a></td>
-        <td>40 минут</td>
+        <td><a href="https://pythonworld.ru/samouchitel-python">Самоучитель по Python, внутри ищем интересующую тему</a></td>
+        <td> - </td>
         <td>Текст</td>
     </tr>
     <tr>
