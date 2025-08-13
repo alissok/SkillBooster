@@ -167,4 +167,12 @@
         <td>20 часов</td>
         <td>Видео + тесты + задачи</td>
     </tr>
+    <tr>
+        <td colspan="3">4-5 (Продолжающий)</td>
+    </tr>
+    <tr>
+        <td><a href="https://habr.com/ru/post/676412/">pyinstaller и другие аспекты упаковли в один исполняемый файл</a></td>
+        <td> - </td>
+        <td>Текст</td>
+    </tr>
 </table>
